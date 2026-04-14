@@ -92,6 +92,20 @@ const patrick: Engineer = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pat1322/pat1322/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pat1322/pat1322/output/github-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/pat1322/pat1322/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
