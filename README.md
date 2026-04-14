@@ -62,25 +62,21 @@ const patrick: Engineer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=pat1322&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=500" height="180"/>
-
-<img src="https://streak-stats.demolab.com/?user=pat1322&theme=tokyonight&hide_border=true&card_width=500" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pat1322&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=500" height="180"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pat1322&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1" width="100%"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=pat1322&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=pat1322&theme=tokyonight&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pat1322&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -91,20 +87,6 @@ const patrick: Engineer = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pat1322&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pat1322/pat1322/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pat1322/pat1322/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pat1322/pat1322/output/github-snake-dark.svg" width="100%"/>
-</picture>
 
 </div>
 
