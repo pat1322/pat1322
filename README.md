@@ -24,7 +24,7 @@ const patrick: Engineer = {
   focus:      ["System Design", "API Architecture", "Cloud Infrastructure"],
   philosophy: "Write code that scales, solves, and endures.",
   currently:  "Exploring cutting-edge technologies & shipping impactful projects",
-  contact:    "patrickperez13@gmail.com",
+  contact:    "patrickperez1322@gmail.com",
 };
 ```
 
