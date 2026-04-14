@@ -73,7 +73,7 @@ const patrick: Engineer = {
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pat1322&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pat1322&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" height="160"/>
     </td>
   </tr>
 </table>
