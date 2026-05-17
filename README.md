@@ -20,10 +20,10 @@
 
 ```typescript
 const patrick: Engineer = {
-  role:       "Software Engineer — Backend Specialist",
-  focus:      ["System Design", "API Architecture", "Cloud Infrastructure"],
-  philosophy: "Write code that scales, solves, and endures.",
-  currently:  "Exploring cutting-edge technologies & shipping impactful projects",
+  role:       "Software Engineer — AI & Backend Focus",
+  focus:      ["AI-driven systems", "Backend Engineering", "Intelligent Automation", "System Design"],
+  philosophy: "Build systems that think, scale, and solve real problems.",
+  currently:  "Exploring AI engineering, intelligent systems, and modern software architecture",
   contact:    "patrickperez1322@gmail.com",
 };
 ```
